@@ -6,3 +6,4 @@ Some freely collected but useful resources.
 - [Sentiment Analysis](https://github.com/declare-lab/awesome-sentiment-analysis)
 - [Summarization Papers](https://github.com/xcfcode/Summarization-Papers)
 - [Spoken Language Understanding](https://github.com/yizhen20133868/Awesome-SLU-Survey)
+- [Semi-Supervised Learning](https://github.com/yassouali/awesome-semi-supervised-learning)
