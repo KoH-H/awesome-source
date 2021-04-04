@@ -9,4 +9,4 @@ Some freely collected but useful resources.
 - [Semi-Supervised Learning](https://github.com/yassouali/awesome-semi-supervised-learning)
 - [Self-Supervised Learning](https://github.com/jason718/awesome-self-supervised-learning)
 - [Domain-Adaptation](https://github.com/zhaoxin94/awesome-domain-adaptation)
-- [Awesome Imbalanced Learning](https://github.com/ZhiningLiu1998/awesome-imbalanced-learning)
+- [Awesome Imbalanced Learning](https://github.com/xialeiliu/Awesome-LongTailed-Recognition)
