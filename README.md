@@ -10,3 +10,4 @@ Some freely collected but useful resources.
 - [Self-Supervised Learning](https://github.com/jason718/awesome-self-supervised-learning)
 - [Domain-Adaptation](https://github.com/zhaoxin94/awesome-domain-adaptation)
 - [Awesome Imbalanced Learning](https://github.com/xialeiliu/Awesome-LongTailed-Recognition)
+- [neural-adaptation-in-NLP](https://github.com/bplank/awesome-neural-adaptation-in-NLP)
