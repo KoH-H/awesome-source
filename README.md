@@ -11,3 +11,7 @@ Some freely collected but useful resources.
 - [Domain-Adaptation](https://github.com/zhaoxin94/awesome-domain-adaptation)
 - [Awesome Imbalanced Learning](https://github.com/xialeiliu/Awesome-LongTailed-Recognition)
 - [neural-adaptation-in-NLP](https://github.com/bplank/awesome-neural-adaptation-in-NLP)
+
+# 2021 NAACL paper
+
+- [Adversarial Self-Supervised Learning for Out-of-Domain Detection](https://www.aclweb.org/anthology/2021.naacl-main.447.pdf)
